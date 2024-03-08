@@ -232,7 +232,7 @@ button{
 }
 .bg-blue{
   background-color: #20a8d8;
-  color: #000000;
+  color: #f3f4f5;
 }
 .bg-indigo{
   background-color: #6610f2;
@@ -240,27 +240,27 @@ button{
 }
 .bg-purple{
   background-color: #6f42c1;
-  color: #000000;
+  color: #f3f4f5;
 }
 .bg-pink{
   background-color: #e83e8c;
-  color: #000000;
+  color: #f3f4f5;
 }
 .bg-red{
   background-color: #f86c6b;
-  color: #000000;
+  color: #f3f4f5;
 }
 .bg-orange{
   background-color: #f8cb00;
-  color: #000000;
+  color: #f3f4f5;
 }
 .bg-yellow{
   background-color: #ffc107;
-  color: #000000;
+  color: #f3f4f5;
 }
 .bg-green{
   background-color: #4dbd74;
-  color: #000000;
+  color: #f3f4f5;
 }
 .bg-teal{
   background-color: #20c997;
@@ -268,7 +268,7 @@ button{
 }
 .bg-cyan{
   background-color: #17a2b8;
-  color: #000000;
+  color: #f3f4f5;
 }
 .bg-white{
   background-color: #fff;
